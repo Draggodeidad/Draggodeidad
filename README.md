@@ -66,11 +66,9 @@ Cyberpunk vibes, Linux y mucho café.
 </p>
 
 ---
+## Actualmente
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Draggodeidad&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Draggodeidad&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+- Construyendo proyectos SaaS
+- Aprendiendo arquitectura escalable
+- Peleándome con TypeScript
+- Viviendo en Linux
