@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Imanol&fontSize=60&fontAlignY=38&animation=twinkling" />
 
-<!--
-**Draggodeidad/Draggodeidad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Tu foto aquí -->
+  <img src="./assets/profile.jpg" width="180" style="border-radius:50%;" />
+</div>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Backend Developer · Linux Enjoyer · Builder
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Me gusta construir cosas que funcionen bien, desde APIs y sistemas backend hasta proyectos completos que resuelvan problemas reales.
+</p>
+
+---
+
+## Sobre mí
+
+- Actualmente enfocado en **Backend Development**.
+- Fan de **Linux** y del software Open Source.
+- Disfruto diseñar APIs, arquitecturas y sistemas escalables.
+- Me interesan temas de rendimiento, bases de datos y experiencia de desarrollador.
+- Cuando no estoy programando probablemente estoy jugando videojuegos, viendo alguna serie animada o saliendo a ver el atardecer.
+
+---
+
+## Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,postgres" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode" />
+</p>
+
+---
+
+## Lo que me gusta construir
+
+- APIs REST
+- SaaS multi-tenant
+- Sistemas offline-first
+- Herramientas para automatizar procesos
+- Aplicaciones web modernas
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhqODdsd2FwYzAxdGR0b2RsMnBldmh6ZjhhNnRpaXppb296bm1nOCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/HMJoAuJ0LOaM6P007X/giphy.gif" width="350" />
+</div>
+
+<p align="center">
+Cyberpunk vibes, Linux y mucho café.
+</p>
+
+---
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Draggodeidad&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Draggodeidad&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
